@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Ramesh Kumar</h1>
 <h3 align="center">A passionate web developer</h3>
-
+ <p align="center"><img src="https://github.com/n4f1hz4in/Doctor-chef-ai/blob/main/What-is-ZoomBombing-and-how-to-prevent-zoom-hacking.gif" width="500"></p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh4916&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh4916" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://ramesh4916.github.io/MyDigitalProfile_RameshKumar/](https://ramesh4916.github.io/MyDigitalProfile_RameshKumar/)
